@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "663932731539",
+    "firebase_url": "https://happy-d02bd.firebaseio.com",
+    "project_id": "happy-d02bd",
+    "storage_bucket": "happy-d02bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663932731539:android:9b537403cc3f9ff9",
+        "android_client_info": {
+          "package_name": "com.example.user.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663932731539-d10kqj3fj4dvo3snsca4b5ubi2mblrse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.myapplication",
+            "certificate_hash": "999b221c031a04c36cfd49051c206b8a911b7ba1"
+          }
+        },
+        {
+          "client_id": "663932731539-s807bohos6p67mj0lk5jfe1mmoqp78ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4W0lmXf-FgnqJa3SeibyElMdCM_mMvA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663932731539-s807bohos6p67mj0lk5jfe1mmoqp78ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
